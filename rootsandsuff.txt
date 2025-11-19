@@ -1,0 +1,10 @@
+ಕಡಿ	ಮೆ	NULL	NULL	3	o	ಕಡಿಮೆ	True	N__NNV,True	NULL
+ಒಳಪಡು	ಟ+ಟ+ಅಂತೆ	NULL	NULL	NULL	NULL	ಒಳಪಟ್ಟಂತೆ	True	V__VM__VNF,True	['ttaMweV']
+ವಿಶ್ಲೇಷಿಸು	ಅ+ಬೇಕು	NULL	NULL	NULL	NULL	ವಿಶ್ಲೇಷಿಸಬೇಕು	True	V__VM__VF,True	NULL
+ಕೊಳ್ಳು	ಅಂ+ಡ+ಅರೆ	NULL	sg	NULL	NULL	ಕೊಂಡರೆ	True	V__VAUX,True	NULL
+ಸುರಕ್ಷಿಸು	ಇತ+ವ+ಆಗಿ	NULL	NULL	NULL	o	ಸುರಕ್ಷಿತವಾಗಿ	True	RB,True	['vAgi', 'wa']
+ಕಡಿ	ಮೆ	NULL	NULL	NULL	o	ಕಡಿಮೆ	True	JJ,True	NULL
+ಇದು	ಅಕ್ಕೆ+ಇಂತ+ಲ+ಊ	NULL	sg	3	o	ಇದಕ್ಕಿಂತಲೂ	True	DM__DMD,True	NULL
+ರಚಿಸು	ಅಲು	NULL	NULL	NULL	NULL	ರಚಿಸಲು	True	V__VM__VF,True	NULL
+ಕೊಳ್ಳು	ಅಂ+ಡ+ಅಲ್ಲಿ	NULL	sg	NULL	NULL	ಕೊಂಡಲ್ಲಿ	True	V__VAUX,True	NULL
+ಕಡಿ	ಮೆ	NULL	NULL	NULL	o	ಕಡಿಮೆ	True	QT__QTF,True	NULL
