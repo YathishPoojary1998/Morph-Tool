@@ -54,7 +54,7 @@ sh morphtool.sh inputfile outputfile
 ### Example:
 
 ```bash
-sh morphtool.sh chunk_output.conll morph_output.conll
+sh morphtool.sh chunk_output morph_output
 ```
 
 ---
